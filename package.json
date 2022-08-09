@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.30.5",
+    "@typescript-eslint/parser": "^5.30.5",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-compat": "^4.0.1",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-unicorn": "^43.0.2",
+    "eslint-plugin-vue": "^9.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=7.4.0",
+    "typescript": ">=3.9"
+  }
+}
