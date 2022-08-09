@@ -118,10 +118,7 @@ module.exports = {
     "@typescript-eslint/no-redeclare": "error",
 
     "no-use-before-define": "off",
-    "@typescript-eslint/no-use-before-define": [
-      "error",
-      { functions: false, classes: false, variables: true },
-    ],
+    "@typescript-eslint/no-use-before-define": "off",
 
     "vue/valid-v-on": [
       "error",
