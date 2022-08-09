@@ -212,7 +212,7 @@ module.exports = {
       {
         replacements: {
           props: false,
-          params: false,
+          param: false,
           prop: false,
           ref: false,
         },
