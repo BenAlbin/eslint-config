@@ -50,7 +50,6 @@ module.exports = {
     "plugin:compat/recommended",
     "prettier",
     "plugin:@typescript-eslint/recommended",
-    "./.eslintrc-auto-import.json",
   ],
   ignorePatterns: [
     "*.min.*",
