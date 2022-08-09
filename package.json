@@ -1,4 +1,10 @@
 {
+  "name": "@balbin/eslint-config",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "pnpm@7.8.0",
+  "author": "Ben Albin <ben.g.albin@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.30.5",
     "@typescript-eslint/parser": "^5.30.5",
